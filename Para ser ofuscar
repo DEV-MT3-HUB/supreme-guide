@@ -1,6 +1,6 @@
 getgenv().Configs = {
 	Team = "Marines",
-	FixLag = true,
+	FixLag = false,
 	FPS = 150,
 	WhiteScreen = false,
 	Godhuman = true,
