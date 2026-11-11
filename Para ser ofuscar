@@ -1,4 +1,4 @@
- getgenv().Configs = {
+getgenv().Configs = {
 	Team = "Pirates",
 	FixLag = false,
 	FPS = 60,
